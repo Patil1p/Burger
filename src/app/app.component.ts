@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Burger';
+  manu :boolean =false
+
+
+  onclick(){
+    this.manu = !this.manu
+  }
 }
