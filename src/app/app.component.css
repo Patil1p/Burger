@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@700&family=Sora:wght@800&family=Ubuntu:wght@700&family=Varela+Round&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
@@ -21,6 +14,7 @@
 }
 .navbar-nav li a {
   color: #fff;
+  margin-left: 7px;
 }
 ul {
   background-color: #e69d9d;
@@ -44,7 +38,7 @@ ul {
 }
 .HeaderSection {
   padding-top: 30px;
-  background-color: #FF5733;
+  background-color: #fc2c00;
   border-radius: 20px;
 }
 .HeaderSection .navbar {
